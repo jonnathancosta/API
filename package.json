@@ -2,5 +2,25 @@
   "dependencies": {
     "express": "^4.18.2",
     "nodemon": "^2.0.22"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error no test specified\" && exit 1 ",
+    "start": "nodemon app.js"
+  },
+  "name": "projeto",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/jonnathancosta/Api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonnathancosta/Api/issues"
+  },
+  "homepage": "https://github.com/jonnathancosta/Api#readme",
+  "description": ""
 }
